@@ -10,3 +10,4 @@
 “Project 05 version2 completed"
 
 3rd Team Member: <20221074>
+3rd Team Member: < 정재성 >
