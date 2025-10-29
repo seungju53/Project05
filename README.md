@@ -4,3 +4,4 @@
 
 “Team Leader: < ---박민서 --->”
 
+2nd Team Member: < --- 이승주  --- >
