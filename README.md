@@ -4,3 +4,4 @@
 
 “Team Leader: < ---박민서 --->”
 
+“2nd Team Member: < 20241067 >”
